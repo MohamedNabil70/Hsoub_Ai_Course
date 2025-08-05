@@ -1,0 +1,31 @@
+Matching any number format:
+
+-?\d+(((\.|,|e)\d+)+)?
+
+in a single line:
+^-?\d+(((\.|,|e)\d+)+)?$
+
+--------------------------------------------------
+Matching phone numbers:
+
+(\d\s)?\(?(\d{3})\)?(\d{1,7})?((-|\s)?\d+){0,2}
+
+Or
+
+1?[\s-]?\(?(\d{3})\)?[\s-]?\d{3}[\s-]?\d{4}
+--------------------------------------------------
+Matching emails:
+
+^([A-Za-z\.0-9]+)(\+\w+)?@\w+(.\w+)+
+
+
+Again, you should probably use a framework to match emails!
+
+Again, you should probably use a framework to match emails!
+
+
+--------------------------------------------------
+
+--------------------------------------------------
+
+--------------------------------------------------

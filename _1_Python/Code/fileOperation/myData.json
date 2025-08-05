@@ -1,0 +1,143 @@
+[
+  {
+    "fileOperation": null,
+    "myData": {
+      "name": "John Doe",
+      "age": 30,
+      "email": "JohnDoe30@gmail.com",
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+      }
+    }
+  },
+  {
+    "fileOperation": null,
+    "myData": {
+      "name": "Jane Smith",
+      "ID": "JS123",
+      "age": 27,
+      "email": "JaneSmith27@email.com",
+      "address": {
+        "street": "456 Oak Avenue",
+        "city": "Riverside",
+        "state": "TX",
+        "zip": "78901"
+      }
+    }
+  },
+  {
+    "fileOperation": null,
+    "myData": {
+      "name": "Carlos Alvarez",
+      "age": 35,
+      "email": "CarlosA35@example.net",
+      "address": {
+        "street": "789 Pine Road",
+        "city": "Lakeview",
+        "state": "FL",
+        "zip": "33111"
+      }
+    }
+  },
+  {
+    "fileOperation": null,
+    "myData": {
+      "name": "Priya Mehta",
+      "age": 29,
+      "email": "PriyaM29@mailservice.org",
+      "address": {
+        "street": "12 Lotus Lane",
+        "city": "Fairview",
+        "state": "NJ",
+        "zip": "07010"
+      }
+    }
+  },
+  {
+    "fileOperation": null,
+    "myData": {
+      "name": "Ahmed Hussein",
+      "age": 32,
+      "email": "AhmedH32@sample.co",
+      "address": {
+        "street": "98 Nile Street",
+        "city": "Greenville",
+        "state": "IL",
+        "zip": "62846"
+      }
+    }
+  },
+  {
+    "fileOperation": null,
+    "myData": {
+      "name": "Sofia Rossi",
+      "age": 24,
+      "email": "SofiaR24@webmail.it",
+      "address": {
+        "street": "3 Via Roma",
+        "city": "Hilltop",
+        "state": "WA",
+        "zip": "98371"
+      }
+    }
+  },
+  {
+    "fileOperation": null,
+    "myData": {
+      "name": "Liu Wei",
+      "age": 40,
+      "email": "LiuWei40@provider.cn",
+      "address": {
+        "street": "66 Bamboo Blvd",
+        "city": "Springfield",
+        "state": "MA",
+        "zip": "01104"
+      }
+    }
+  },
+  {
+    "fileOperation": null,
+    "myData": {
+      "name": "Emily Johnson",
+      "age": 22,
+      "email": "EmilyJ22@host.com",
+      "address": {
+        "street": "25 Maple Drive",
+        "city": "Cedar Falls",
+        "state": "IA",
+        "zip": "50613"
+      }
+    }
+  },
+  {
+    "fileOperation": null,
+    "myData": {
+      "name": "George Brown",
+      "age": 45,
+      "email": "GeorgeB45@fastmail.org",
+      "address": {
+        "street": "852 Sunset Way",
+        "city": "Oak Ridge",
+        "state": "TN",
+        "zip": "37830"
+      }
+    }
+  },
+  {
+    "fileOperation": null,
+    "myData": {
+      "name": "Mina Farouk",
+      "age": 28,
+      "email": "MinaF28@example.eg",
+      "address": {
+        "street": "10 Lotus Gardens",
+        "city": "Clearwater",
+        "state": "AZ",
+        "zip": "85003"
+      }
+    }
+  }
+]

@@ -1,0 +1,170 @@
+{
+    "date": "2025-07-17 22:40:26",
+    "weather": [
+        {
+            "City #1": "Amsterdam",
+            "Temperature (°C)": 20,
+            "Condition": "Clear sky"
+        },
+        {
+            "City #2": "Antalya",
+            "Temperature (°C)": 28,
+            "Condition": "Few clouds"
+        },
+        {
+            "City #3": "Auckland",
+            "Temperature (°C)": 11,
+            "Condition": "Light rain"
+        },
+        {
+            "City #4": "Bali",
+            "Temperature (°C)": 17,
+            "Condition": "Drizzle"
+        },
+        {
+            "City #5": "Barcelona",
+            "Temperature (°C)": 29,
+            "Condition": "Few clouds"
+        },
+        {
+            "City #6": "Buenos Aires",
+            "Temperature (°C)": 12,
+            "Condition": "Clear sky"
+        },
+        {
+            "City #7": "Cairo",
+            "Temperature (°C)": 32,
+            "Condition": "Clear sky"
+        },
+        {
+            "City #8": "Cancún",
+            "Temperature (°C)": 32,
+            "Condition": "Light rain"
+        },
+        {
+            "City #9": "Cape Town",
+            "Temperature (°C)": 13,
+            "Condition": "Light intensity shower rain"
+        },
+        {
+            "City #10": "Dubai",
+            "Temperature (°C)": 37,
+            "Condition": "Clear sky"
+        },
+        {
+            "City #11": "Hanoi",
+            "Temperature (°C)": 30,
+            "Condition": "Clear sky"
+        },
+        {
+            "City #12": "Hong Kong",
+            "Temperature (°C)": 31,
+            "Condition": "Clear sky"
+        },
+        {
+            "City #13": "Honolulu",
+            "Temperature (°C)": 29,
+            "Condition": "Broken clouds"
+        },
+        {
+            "City #14": "Ibiza Town",
+            "Temperature (°C)": 29,
+            "Condition": "Clear sky"
+        },
+        {
+            "City #15": "Istanbul",
+            "Temperature (°C)": 27,
+            "Condition": "Clear sky"
+        },
+        {
+            "City #16": "Lima",
+            "Temperature (°C)": 18,
+            "Condition": "Partly cloudy"
+        },
+        {
+            "City #17": "London",
+            "Temperature (°C)": 24,
+            "Condition": "Light intensity shower rain"
+        },
+        {
+            "City #18": "Marmagao",
+            "Temperature (°C)": 26,
+            "Condition": "Drizzle"
+        },
+        {
+            "City #19": "Oslo",
+            "Temperature (°C)": 27,
+            "Condition": "Clear sky"
+        },
+        {
+            "City #20": "Paris",
+            "Temperature (°C)": 26,
+            "Condition": "Clear sky"
+        },
+        {
+            "City #21": "Phuket",
+            "Temperature (°C)": 28,
+            "Condition": "Broken clouds"
+        },
+        {
+            "City #22": "Rhodes",
+            "Temperature (°C)": 27,
+            "Condition": "Clear sky"
+        },
+        {
+            "City #23": "Rio de Janeiro",
+            "Temperature (°C)": 26,
+            "Condition": "Broken clouds"
+        },
+        {
+            "City #24": "Rome",
+            "Temperature (°C)": 26,
+            "Condition": "Clear sky"
+        },
+        {
+            "City #25": "Seoul",
+            "Temperature (°C)": 23,
+            "Condition": "Thunderstorm with heavy rain"
+        },
+        {
+            "City #26": "Sharm el Sheikh",
+            "Temperature (°C)": 32,
+            "Condition": "Clear sky"
+        },
+        {
+            "City #27": "Singapore",
+            "Temperature (°C)": 28,
+            "Condition": "Broken clouds"
+        },
+        {
+            "City #28": "Sydney",
+            "Temperature (°C)": 8,
+            "Condition": "Clear sky"
+        },
+        {
+            "City #29": "Tenerife",
+            "Temperature (°C)": 29,
+            "Condition": "Clear sky"
+        },
+        {
+            "City #30": "Tokyo",
+            "Temperature (°C)": 25,
+            "Condition": "Broken clouds"
+        },
+        {
+            "City #31": "Toronto",
+            "Temperature (°C)": 28,
+            "Condition": "Few clouds"
+        },
+        {
+            "City #32": "Venice",
+            "Temperature (°C)": 25,
+            "Condition": "Partly cloudy"
+        },
+        {
+            "City #33": "Vienna",
+            "Temperature (°C)": 19,
+            "Condition": "Overcast clouds"
+        }
+    ]
+}
